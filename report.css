@@ -1,0 +1,116 @@
+a{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    color: rgb(13, 228, 243);
+}
+
+a:active{
+    color: lawngreen;
+
+}
+a:visited{
+    color:rgb(250, 1, 1);
+
+
+}
+h1{
+    color:blueviolet
+}
+body{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: size 16px;
+    line-height: 2em;
+    
+}
+
+.box-1{
+    background-color: gray;
+    color:white;
+    width: 60%;
+    margin:auto;
+    border: 20px;
+    padding: 40px;
+    font-style: italic;
+    text-transform: uppercase;
+    
+
+
+
+
+}
+.categories{
+    border: 1px dotted;
+    margin: auto;
+    width: 60%;
+    padding:10px;
+    border: radius 15px;
+    
+
+
+
+}
+.categories h2{
+    text-align:center;
+
+}
+.categories ul{
+    list-style: none;
+    
+    
+}
+
+
+.my-form{
+    padding:20px;
+
+}
+.my-form .form-group{
+    padding-bottom: 15px;
+
+}
+.my-form label{
+    display:block;
+
+}
+
+.my-form input[type="text"], .my-form textarea{
+    padding:8px;
+    width:100%;
+}
+
+.my-form input[type="submit"]{
+    background-color: chocolate;
+    color: black;
+    padding: 10px 15px;
+    border:none;
+    border-radius: 5px;
+    transition: background-color 0.5s;
+
+
+}
+.my-form input[type="submit"]:hover{
+    background-color: rgb(128, 65, 20);
+
+}
+.my-form{
+    color:chartreuse;
+}
+
+.block{
+    background-color: lightcoral;
+    float:left;
+    width: 23.34%;
+    display: block;
+}
+.block{
+    border:1px dotted black;
+    text-align: center;
+
+
+}
+
+
